@@ -36,8 +36,8 @@ The dataset used in this analysis contains 1062 rows, and the data dictionary gi
 ## Analytical Results
 Below are the findings of the analysis found in this project:
 
-* 1.	Unicorns emerged from a total of 46 countries
-* 2.	The Company ‘Zapier’, an internet software & services company made the biggest return on investment ROI which is 3999%'.
+ 1.	Unicorns emerged from a total of 46 countries
+ 2.	The Company ‘Zapier’, an internet software & services company made the biggest return on investment ROI which is 3999%'.
 Top ten Companies based on ROI
    * •	Zapier.
    * •	Dunamu.
@@ -49,13 +49,13 @@ Top ten Companies based on ROI
    * •	Canva.
    * •	Il Makiage.
    * •	Revolution Precrafted.
-* 3. Achieving unicorn status typically takes around 7 years on average, but some companies defy the norm by reaching unicorn status in their inaugural year.
-* 4. The Fintech Industry boasts the highest number of unicorns, making it a thriving hub for groundbreaking success stories.
-* 5. Dominating the unicorn landscape, the United States claims over 50% of all unicorn companies, solidifying its position as a global leader in unicorn innovation.
-* 6. Tiger Global Management takes the lead as the primary financier of unicorns, contributing significantly to the success stories of these transformative companies.
-* 7. Based on comprehensive datasets, three African countries have successfully produced unicorns. Notably, some companies, though founded in Africa, maintain affiliations with countries beyond the continent.
-* 8. Securing the top spot, 'Bytedance' emerges as the most valued company, closely followed by the remarkable achievements of SpaceX.
-* 9.   The analysis of unicorn trends in 2021 reveals a pivotal year, with nearly 50% of unicorns attaining their status during this period. The United States emerges as the epicenter of this success, with over half of its unicorn companies achieving this milestone in 2021.
+ 3. Achieving unicorn status typically takes around 7 years on average, but some companies defy the norm by reaching unicorn status in their inaugural year.
+ 4. The Fintech Industry boasts the highest number of unicorns, making it a thriving hub for groundbreaking success stories.
+ 5. Dominating the unicorn landscape, the United States claims over 50% of all unicorn companies, solidifying its position as a global leader in unicorn innovation.
+ 6. Tiger Global Management takes the lead as the primary financier of unicorns, contributing significantly to the success stories of these transformative companies.
+ 7. Based on comprehensive datasets, three African countries have successfully produced unicorns. Notably, some companies, though founded in Africa, maintain affiliations with countries beyond the continent.
+ 8. Securing the top spot, 'Bytedance' emerges as the most valued company, closely followed by the remarkable achievements of SpaceX.
+ 9.   The analysis of unicorn trends in 2021 reveals a pivotal year, with nearly 50% of unicorns attaining their status during this period. The United States emerges as the epicenter of this success, with over half of its unicorn companies achieving this milestone in 2021.
    *   In the same year, the Internet software & services Industry, alongside the Fintech Industry, emerges as the driving force behind the majority of US unicorn success stories.
 
  ## Acknowledgement 
