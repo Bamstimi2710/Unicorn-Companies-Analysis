@@ -19,7 +19,7 @@ The Questions are as follows;
 ## Data Sourcing
 While searching for various datasets online, I stumbled upon the Unicorn Company Datasets, recalling a challenge by Maven Analytics that I had missed months ago. Inspired to take a unique approach, I decided to do something different with these datasets.
 ## About the Datasets
-The dataset used in this analysis contains 1062 rows, and the data dictionary gives us a description of what each field names in order to better understand the datasets provided. The Field and their respective descriptions are provided below:  
+The dataset used in this analysis contains 1062 rows, and the data dictionary gives us a description of each field names in order to understand the datasets provided. The Field and their respective descriptions are provided below:  
  | Field		     |  Description                                                                          |
  |---------------|---------------------------------------------------------------------------------------|
 |•	Company	      |Company name                                                                         |
@@ -32,3 +32,42 @@ The dataset used in this analysis contains 1062 rows, and the data dictionary gi
 |•	Year Founded	  |Year the company was founded
 |•	Funding	      |Total amount raised across all funding rounds in billions (B) or millions (M) of dollars
 |•	Select Investors	|Top 4 investing firms or individual investors (some have less than 4)
+
+## Analytical Results
+Below are the findings of the analysis found in this project:
+
+* 1.	Unicorns emerged from a total of 46 countries
+* 2.	The Company ‘Zapier’, an internet software & services company made the biggest return on investment ROI which is 3999%'.
+Top ten Companies based on ROI
+   * •	Zapier.
+   * •	Dunamu.
+   * •	Workhuman.
+   * •	CFGI.
+   * •	Manner.
+   * •	DJI Innovations.
+   * •	GalaxySpace.
+   * •	Canva.
+   * •	Il Makiage.
+   * •	Revolution Precrafted.
+* 3. Achieving unicorn status typically takes around 7 years on average, but some companies defy the norm by reaching unicorn status in their inaugural year.
+* 4. The Fintech Industry boasts the highest number of unicorns, making it a thriving hub for groundbreaking success stories.
+* 5. Dominating the unicorn landscape, the United States claims over 50% of all unicorn companies, solidifying its position as a global leader in unicorn innovation.
+* 6. Tiger Global Management takes the lead as the primary financier of unicorns, contributing significantly to the success stories of these transformative companies.
+* 7. Based on comprehensive datasets, three African countries have successfully produced unicorns. Notably, some companies, though founded in Africa, maintain affiliations with countries beyond the continent.
+* 8. Securing the top spot, 'Bytedance' emerges as the most valued company, closely followed by the remarkable achievements of SpaceX.
+* 9.   The analysis of unicorn trends in 2021 reveals a pivotal year, with nearly 50% of unicorns attaining their status during this period. The United States emerges as the epicenter of this success, with over half of its unicorn companies achieving this milestone in 2021.
+   *   In the same year, the Internet software & services Industry, alongside the Fintech Industry, emerges as the driving force behind the majority of US unicorn success stories.
+
+ ## Acknowledgement 
+ Special appreciation to Maven Analytics for their invaluable contributions in providing readily available datasets on their websites.
+
+
+
+
+
+
+
+
+
+
+
