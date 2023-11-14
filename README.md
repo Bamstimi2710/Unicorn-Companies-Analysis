@@ -39,9 +39,19 @@ The dataset used in this analysis contains 1062 rows, and the data dictionary gi
 |•	Select Investors	|Top 4 investing firms or individual investors (some have less than 4)
 
 ## Process 
-The Analysis was carried using various types SQL Functions and Windows fuctions; Aggrgate functions such as AVG, COUNT, MAX, SUM and Scaler functions such as ROUND. Ranking Function DENSE_RANK(), RANK() as can be clearly seen in the figures below. It was also carried using the basic SQL command such as SELECT, FROM, GROUP BY, ORDER BR, WHERE Conditions, HAVING conditions
+The Analysis was carried using various types SQL Functions and Windows fuctions; Aggrgate functions such as AVG, COUNT, MAX, SUM and Scaler functions such as ROUND. Ranking Function DENSE_RANK(), RANK() as can be clearly seen in the figures below. It was also carried using the basic SQL command such as SELECT, FROM, GROUP BY, ORDER BR, WHERE Conditions, HAVING conditions.
 
-![](ray-so-export(25).png)
+Question 4                   |  Question 4 Further
+:------------------------------:|:------------------------------------:
+ ![](Unicorn_query_7.png)       |    ![](Unicorn_query_3.png)   
+ 
+Question 9                   |  Question 6
+:------------------------------:|:------------------------------------:
+ ![](Unicorn_query_1.png)       |    ![](Unicorn_query_3.png)      
+
+More Analysis                    |  Question 5
+:------------------------------:|:------------------------------------:
+ ![](Unicorn_query_6.png)       |    ![](Unicorn_query_5.png)      
 
 ## Analytical Results
 Below are the findings of the analysis found in this project:
