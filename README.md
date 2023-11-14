@@ -45,15 +45,15 @@ Question 1                   |  Question 4
 :------------------------------:|:------------------------------------:
  ![](Unicorn_query_9.png)       |    ![](Unicorn_query_7.png)   
  
-Question 9                   |  Question 6
+Question 5                   |  Question 6
 :------------------------------:|:------------------------------------:
- ![](Unicorn_query_1.png)       |    ![](Unicorn_query_3.png)      
+ ![](Unicorn_query_5.png)       |    ![](Unicorn_query_3.png)      
 
-More Analysis                    |  Question 5
+Question 9                      |  Further Analysis
 :------------------------------:|:------------------------------------:
- ![](Unicorn_query_6.png)       |    ![](Unicorn_query_5.png)    
+ ![](Unicorn_query_1.png)       |    ![](Unicorn_query_6.png)    
 
- More details of the queries used in drawing insights can be seen in this SQL file 
+ More details of the queries used in drawing insights can be seen in this SQL file ![Unicorn SQL queries](unicorn_companies.sql)
 
 ## Analytical Results
 Below are the findings of the analysis found in this project:
@@ -61,16 +61,16 @@ Below are the findings of the analysis found in this project:
  1.	Unicorns emerged from a total of 46 countries
  2.	The Company ‘Zapier’, an internet software & services company made the biggest return on investment ROI which is 3999%'.
 Top ten Companies based on ROI
-   * •	Zapier.
-   * •	Dunamu.
-   * •	Workhuman.
-   * •	CFGI.
-   * •	Manner.
-   * •	DJI Innovations.
-   * •	GalaxySpace.
-   * •	Canva.
-   * •	Il Makiage.
-   * •	Revolution Precrafted.
+      * •	Zapier.
+      * •	Dunamu.
+      * •	Workhuman.
+      * •	CFGI.
+      * •	Manner.
+      * •	DJI Innovations.
+      * •	GalaxySpace.
+      * •	Canva.
+      * •	Il Makiage.
+      * •	Revolution Precrafted.
  3. Achieving unicorn status typically takes around 7 years on average, but some companies defy the norm by reaching unicorn status in their inaugural year.
  4. The Fintech Industry boasts the highest number of unicorns, making it a thriving hub for groundbreaking success stories.
  5. Dominating the unicorn landscape, the United States claims over 50% of all unicorn companies, solidifying its position as a global leader in unicorn innovation.
