@@ -41,9 +41,9 @@ The dataset used in this analysis contains 1062 rows, and the data dictionary gi
 ## Process 
 The Analysis was carried using various types SQL Functions and Windows fuctions; Aggrgate functions such as AVG, COUNT, MAX, SUM and Scaler functions such as ROUND. Ranking Function DENSE_RANK(), RANK() as can be clearly seen in the figures below. It was also carried using the basic SQL command such as SELECT, FROM, GROUP BY, ORDER BR, WHERE Conditions, HAVING conditions.
 
-Question 4                   |  Question 4 Further
+Question 1                   |  Question 4
 :------------------------------:|:------------------------------------:
- ![](Unicorn_query_7.png)       |    ![](Unicorn_query_3.png)   
+ ![](Unicorn_query_9.png)       |    ![](Unicorn_query_7.png)   
  
 Question 9                   |  Question 6
 :------------------------------:|:------------------------------------:
@@ -51,7 +51,9 @@ Question 9                   |  Question 6
 
 More Analysis                    |  Question 5
 :------------------------------:|:------------------------------------:
- ![](Unicorn_query_6.png)       |    ![](Unicorn_query_5.png)      
+ ![](Unicorn_query_6.png)       |    ![](Unicorn_query_5.png)    
+
+ More details of the queries used in drawing insights can be seen in this SQL file 
 
 ## Analytical Results
 Below are the findings of the analysis found in this project:
