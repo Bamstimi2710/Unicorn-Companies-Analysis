@@ -1,5 +1,6 @@
 # Unicorn-Companies-Analysis
 ## Introduction
+![](unicorn.jpg)
 The aspiration for any tech startup is to attain a valuation surpassing one billion dollars ($1 billion), earning them the coveted status of a Unicorn. A Unicorn company is a startup valued at over $1 billion without being publicly traded. These companies are particularly appealing to investors, offering the potential for substantial returns on investment due to their impressive valuations.
 
 This repository includes SQL queries and accompanying visual results for the analytical project focused on 1062 unicorn companies across 46 countries globally.
